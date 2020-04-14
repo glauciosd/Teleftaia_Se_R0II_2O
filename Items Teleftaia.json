@@ -1728,20 +1728,20 @@
 	"3 dias de {@item Cantil|TWG|água}"
 	]}],
 	"packContents":[
-	{"item":"Mochila|TWG","quantity":1},
-	{"item":"Bolsa de Bolinhas|TWG","quantity":1},
-	{"item":"Barbante (3 metros)|TWG","quantity":1},
-	{"item":"Sino|TWG","quantity":1},
-	{"item":"Vela|TWG","quantity":5},
-	{"item":"Pé-de-Cabra|TWG","quantity":1},
-	{"item":"Martelo|TWG","quantity":1},
-	{"item":"Piton|TWG","quantity":10},
-	{"item":"Lanterna Coberta|TWG","quantity":1},
-	{"item":"Frasco de Óleo|TWG","quantity":2},
-	{"item":"Corda de Sisal (15 metros)|TWG","quantity":1},
-	{"item":"Kit de Fogo|TWG","quantity":1},
-	{"item":"Ração|TWG","quantity":3},
-	{"item":"Cantil|TWG","quantity":3}
+	{"item":"mochila|twg","quantity":1},
+	{"item":"bolsa de bolinhas|twg","quantity":1},
+	{"item":"barbante (3 metros)|twg","quantity":1},
+	{"item":"sino|twg","quantity":1},
+	{"item":"vela|twg","quantity":5},
+	{"item":"pé-de-cabra|twg","quantity":1},
+	{"item":"martelo|twg","quantity":1},
+	{"item":"piton|twg","quantity":10},
+	{"item":"lanterna coberta|twg","quantity":1},
+	{"item":"frasco de óleo|twg","quantity":2},
+	{"item":"corda de sisal (15 metros)|twg","quantity":1},
+	{"item":"kit de fogo|twg","quantity":1},
+	{"item":"ração|twg","quantity":3},
+	{"item":"cantil|twg","quantity":3}
 	]},
 {"name":"Equipamento de Diplomata",
 	"source":"TWG",
@@ -1762,17 +1762,17 @@
 	"{@item Sabão|TWG}"
 	]}],
 	"packContents":[
-	{"item":"Mochila|TWG","quantity":1},
-	{"item":"Estojo de Pergaminhos|TWG","quantity":2},
-	{"item":"Traje Elegante|TWG","quantity":1},
-	{"item":"Ampola de Tinta|TWG","quantity":1},
-	{"item":"Caneta Tinteiro|TWG","quantity":1},
-	{"item":"Lamparina|TWG","quantity":1},
-	{"item":"Frasco de Óleo|TWG","quantity":2},
-	{"item":"Pergaminho em Branco|TWG","quantity":5},
-	{"item":"Frasco de Perfume|TWG","quantity":1},
-	{"item":"Parafina|TWG","quantity":1},
-	{"item":"Sabão|TWG","quantity":1}
+	{"item":"mochila|twg","quantity":1},
+	{"item":"estojo de pergaminhos|twg","quantity":2},
+	{"item":"traje elegante|twg","quantity":1},
+	{"item":"ampola de tinta|twg","quantity":1},
+	{"item":"caneta tinteiro|twg","quantity":1},
+	{"item":"lamparina|twg","quantity":1},
+	{"item":"frasco de óleo|twg","quantity":2},
+	{"item":"pergaminho em branco|twg","quantity":5},
+	{"item":"frasco de perfume|twg","quantity":1},
+	{"item":"parafina|twg","quantity":1},
+	{"item":"sabão|twg","quantity":1}
 	]},
 {"name":"Equipamento de Aventureiro",
 	"source":"TWG",
@@ -1791,15 +1791,15 @@
 	"5 dias de {@item Cantil|TWG|água}"
 	]}],
 	"packContents":[
-	{"item":"Mochila|TWG","quantity":1},
-	{"item":"Pé-de-Cabra|TWG","quantity":1},
-	{"item":"Martelo|TWG","quantity":1},
-	{"item":"Piton|TWG","quantity":10},
-	{"item":"Tocha|TWG","quantity":10},
-	{"item":"Kit de Fogo|TWG","quantity":1},
-	{"item":"Corda de Sisal (15 metros)|TWG","quantity":1},
-	{"item":"Ração|TWG","quantity":5},
-	{"item":"Cantil|TWG","quantity":5}
+	{"item":"mochila|twg","quantity":1},
+	{"item":"pé-de-cabra|twg","quantity":1},
+	{"item":"martelo|twg","quantity":1},
+	{"item":"piton|twg","quantity":10},
+	{"item":"tocha|twg","quantity":10},
+	{"item":"kit de fogo|twg","quantity":1},
+	{"item":"corda de sisal (15 metros)|twg","quantity":1},
+	{"item":"ração|twg","quantity":5},
+	{"item":"cantil|twg","quantity":5}
 	]},
 {"name":"Equipamento de Artista",
 	"source":"TWG",
@@ -1815,14 +1815,14 @@
 	"3 dias de {@item Ração|TWG|comida}",
 	"3 dias de {@item Cantil|TWG|água}"
 	]}],
-	"packContents":[
-	{"item":"Mochila|TWG","quantity":1},
-	{"item":"Saco de Dormir|TWG","quantity":1},
-	{"item":"Traje de Fantasia|TWG","quantity":2},
-	{"item":"Vela|TWG","quantity":5},
-	{"item":"Kit de Disfarce|TWG","quantity":1},
-	{"item":"Ração|TWG","quantity":3},
-	{"item":"Cantil|TWG","quantity":3}
+	"packcontents":[
+	{"item":"mochila|twg","quantity":1},
+	{"item":"saco de dormir|twg","quantity":1},
+	{"item":"traje de fantasia|twg","quantity":2},
+	{"item":"vela|twg","quantity":5},
+	{"item":"kit de disfarce|twg","quantity":1},
+	{"item":"ração|twg","quantity":3},
+	{"item":"cantil|twg","quantity":3}
 	]},
 {"name":"Equipamento de Explorador",
 	"source":"TWG",
@@ -1840,14 +1840,14 @@
 	"5 dias de {@item Cantil|TWG|água}"
 	]}],
 	"packContents":[
-	{"item":"Mochila|TWG","quantity":1},
-	{"item":"Saco de Dormir|TWG","quantity":1},
-	{"item":"Kit de Refeição|TWG","quantity":1},
-	{"item":"Tocha|TWG","quantity":10},
-	{"item":"Kit de Fogo|TWG","quantity":1},
-	{"item":"Corda de Sisal (15 metros)|TWG","quantity":1},
-	{"item":"Ração|TWG","quantity":5},
-	{"item":"Cantil|TWG","quantity":5}
+	{"item":"mochila|twg","quantity":1},
+	{"item":"saco de dormir|twg","quantity":1},
+	{"item":"kit de refeição|twg","quantity":1},
+	{"item":"tocha|twg","quantity":10},
+	{"item":"kit de fogo|twg","quantity":1},
+	{"item":"corda de sisal (15 metros)|twg","quantity":1},
+	{"item":"ração|twg","quantity":5},
+	{"item":"cantil|twg","quantity":5}
 	]},
 {"name":"Equipamento de Sacerdote",
 	"source":"TWG",
@@ -1867,16 +1867,16 @@
 	"2 dias de {@item Cantil|TWG|água}"
 	]}],
 	"packContents":[
-	{"item":"Mochila|TWG","quantity":1},
-	{"item":"Cobertor|TWG","quantity":1},
-	{"item":"Kit de Refeição|TWG","quantity":1},
-	{"item":"Vela|TWG","quantity":10},
-	{"item":"Caixa de Esmolas|TWG","quantity":1},
-	{"item":"Incenso|TWG","quantity":2},
-	{"item":"Turíbulo|TWG","quantity":1},
-	{"item":"Traje de Sacerdote|TWG","quantity":1},
-	{"item":"Ração|TWG","quantity":5},
-	{"item":"Cantil|TWG","quantity":5}
+	{"item":"mochila|twg","quantity":1},
+	{"item":"cobertor|twg","quantity":1},
+	{"item":"kit de refeição|twg","quantity":1},
+	{"item":"vela|twg","quantity":10},
+	{"item":"caixa de esmolas|twg","quantity":1},
+	{"item":"incenso|twg","quantity":2},
+	{"item":"turíbulo|twg","quantity":1},
+	{"item":"traje de sacerdote|twg","quantity":1},
+	{"item":"ração|twg","quantity":5},
+	{"item":"cantil|twg","quantity":5}
 	]},
 {"name":"Equipamento de Estudioso",
 	"source":"TWG",
@@ -1893,13 +1893,13 @@
 	"um {@item Abridor de Cartas|TWG}"
 	]}],
 	"packContents":[
-	{"item":"Mochila|TWG","quantity":1},
-	{"item":"Livro|TWG","quantity":1},
-	{"item":"Ampola de Tinta|TWG","quantity":1},
-	{"item":"Caneta Tinteiro|TWG","quantity":1},
-	{"item":"Pergaminho em Branco|TWG","quantity":5},
-	{"item":"Estojo de Pergaminhos|TWG","quantity":2},
-	{"item":"Abridor de Cartas|TWG","quantity":1}
+	{"item":"mochila|twg","quantity":1},
+	{"item":"livro|twg","quantity":1},
+	{"item":"ampola de tinta|twg","quantity":1},
+	{"item":"caneta tinteiro|twg","quantity":1},
+	{"item":"pergaminho em branco|twg","quantity":5},
+	{"item":"estojo de pergaminhos|twg","quantity":2},
+	{"item":"abridor de cartas|twg","quantity":1}
 	]},
 {"name":"Equipamento de Caçador de Monstro",
 	"source":"TWG",
@@ -1920,17 +1920,17 @@
 	"3 {@item Tocha|TWG|Tochas}"
 	]}],
 	"packContents":[
-	{"item":"Mochila|TWG","quantity":1},
-	{"item":"Pé-de-Cabra|TWG","quantity":1},
-	{"item":"Martelo|TWG","quantity":1},
-	{"item":"Estaca|TWG","quantity":3},
-	{"item":"Relicário|TWG","quantity":1},
-	{"item":"Frasco de Água Benta|TWG","quantity":1},
-	{"item":"Espelho de Mão|TWG","quantity":1},
-	{"item":"Frasco de Óleo|TWG","quantity":1},
-	{"item":"Algemas|TWG","quantity":1},
-	{"item":"Kit de Fogo|TWG","quantity":1},
-	{"item":"Tocha|TWG","quantity":3}
+	{"item":"mochila|twg","quantity":1},
+	{"item":"pé-de-cabra|twg","quantity":1},
+	{"item":"martelo|twg","quantity":1},
+	{"item":"estaca|twg","quantity":3},
+	{"item":"relicário|twg","quantity":1},
+	{"item":"frasco de água benta|twg","quantity":1},
+	{"item":"espelho de mão|twg","quantity":1},
+	{"item":"frasco de óleo|twg","quantity":1},
+	{"item":"algemas|twg","quantity":1},
+	{"item":"kit de fogo|twg","quantity":1},
+	{"item":"tocha|twg","quantity":3}
 	]}
 
 ]}
